@@ -1,0 +1,27 @@
+{
+    "koders": [
+        {
+            "id": 1,
+            "name": "Abraham",
+            "age": 30
+        },
+        {
+            "id": 2,
+            "name": "Airy",
+            "age": 20
+        },
+        {
+            "id": 3,
+            "name": "Cristobal",
+            "age": 26
+        },
+        {
+            "id": 4,
+            "name": "Eric",
+            "age": 32
+        }
+    ],
+    "mentores": [
+        {}
+    ]
+}
